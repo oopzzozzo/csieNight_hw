@@ -1,0 +1,13 @@
+#trim{
+	position: fixed;
+	top: 0;
+	left: 0;
+	height: 100%;
+	width: 100%;
+	overflow: hidden;
+	z-index: -100;
+}
+#foot-hight{
+	min-height: 100%;
+	margin: 0 auto - 50px;
+}
